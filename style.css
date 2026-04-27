@@ -3,7 +3,7 @@
       --blue:#1c5faa;--blue2:#2574cc;--bluelt:#cce0f5;--bluexlt:#eaf4fc;
       --green:#28620f;--greenlt:#d6efcc;
       --amber:#7d4208;--amberlt:#f5e4cc;
-      --sans:'Syne',sans-serif;--mono:'Syne Mono',monospace;--serif:'Instrument Serif',Georgia,serif;
+      --sans:'Inter',sans-serif;--mono:'Syne Mono',monospace;--serif:'Instrument Serif',Georgia,serif;
       --ease:cubic-bezier(.4,0,.2,1);--spring:cubic-bezier(.34,1.56,.64,1);
     }
     [data-theme="light"]{
